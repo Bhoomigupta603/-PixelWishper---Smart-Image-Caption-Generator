@@ -6,7 +6,7 @@ Welcome to **PixelWishper**, a smart image caption generator that creates descri
 
 ## Demo Screenshot
 
-![PixelWishper Demo]<img width="1916" height="897" alt="image_captioning_GUI" src="https://github.com/user-attachments/assets/2f7ec9b7-259a-4168-b2aa-89afd6e5164a" />
+<img width="1916" height="897" alt="image_captioning_GUI" src="https://github.com/user-attachments/assets/2f7ec9b7-259a-4168-b2aa-89afd6e5164a" />
 
 *Screenshot of the PixelWishper interface*
 
@@ -35,7 +35,7 @@ Welcome to **PixelWishper**, a smart image caption generator that creates descri
 
 Watch the demo video to see PixelWishper in action:  
 
-[![Watch the Demo](<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7346183875309522946?collapsed=1" height="542" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>)
+(<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7346183875309522946?collapsed=1" height="542" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>)
 
 ---
 
