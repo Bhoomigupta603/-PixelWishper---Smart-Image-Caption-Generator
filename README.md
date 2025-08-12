@@ -33,8 +33,8 @@ Welcome to **PixelWishper**, a smart image caption generator that creates descri
 
 ## Demo Video
 
-Watch the demo video to see PixelWishper in action:  
-<src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7346183875309522946?compact=1">
+### Watch the demo video to see PixelWishper in action:  
+(src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7346183875309522946?compact=1")
 ---
 
 ## Installation
